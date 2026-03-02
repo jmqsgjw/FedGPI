@@ -7,23 +7,6 @@ This repository contains the datasets and partial core code for the paper:
 
 ---
 
-## 📁 Repository Structure
-FedGPI/
-│
-├── datasets/ # Dataset information and download links
-│ ├── dataset_info.md # Detailed dataset descriptions
-│ └── download_links.md # Direct links to original data sources
-│
-├── code/ # Partial core code snippets
-│ ├── gpi_calculation.py # Gravitational Potential Index computation (Eq. 4)
-│ ├── markov_sampling.py # Markov sampling illustration (Eq. 2)
-│ └── fda_training.py # FDA training example (Eq. 3)
-│
-└── README.md # This file
-
-
----
-
 ## 📊 Datasets
 
 We use nine real-world binary classification benchmark datasets from the UCI Machine Learning Repository. Below is a summary of the datasets used in our experiments:
